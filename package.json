@@ -1,0 +1,25 @@
+{
+  "name": "MusicMK",
+  "version": "1.0.0",
+  "description": "all the mk music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:whoeverest/mk-music.git"
+  },
+  "author": "Andrej T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoeverest/mk-music/issues"
+  },
+  "homepage": "https://github.com/whoeverest/mk-music",
+  "dependencies": {
+    "anydb-sql": "^0.6.32",
+    "bluebird": "^2.9.25",
+    "express": "^4.12.3",
+    "multer": "^0.1.8"
+  }
+}
